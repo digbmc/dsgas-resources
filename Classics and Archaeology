@@ -1,5 +1,4 @@
 <html>
-<head>
 <style>
 h1
 {font: bold
@@ -11,11 +10,11 @@ h2
   </style>
 
 
-<h1> #Digital Classics Resources</h1>
+<h1>#Digital Classics Resources:</h1>
 
 This is a resource for students in Greek, Latin, and Classical Studies interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities.
 
-## Text Resources:
+<h2>Text Resources:</h2>
 
   - Perseus (http://www.perseus.tufts.edu/hopper/)
   - TLG
@@ -26,17 +25,17 @@ This is a resource for students in Greek, Latin, and Classical Studies intereste
   - Homer MultiText (http://www.homermultitext.org/)
   - ToposText (https://topostext.org/)
 
-## Mapping:
+<h2>Mapping:</h2>
 
   - Hestia (https://hestia.open.ac.uk/hestia/)
   - Pleiades (https://pleiades.stoa.org/)
   - ORBIS (http://orbis.stanford.edu/index.html)
 
-## Networking:
+<h2>Networking:</h2>
 
   - SNAPDRGN (https://snapdrgn.net/)
 
-## Databases of Resources:
+<h2>Databases of Resources:</h2>
 
   - https://classicalstudies.org/blogs/digital-humanities
   - https://guides.library.harvard.edu/interlibros/classics_digital
@@ -46,7 +45,7 @@ This is a resource for students in Greek, Latin, and Classical Studies intereste
   - http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/
   - https://www.aarome.org/research/resources/periodical-indexes
 
-## Educational Resources:
+<h2>Educational Resources:</h2>
 
   - https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx (linked data)
 
@@ -55,28 +54,28 @@ This is a resource for students in Greek, Latin, and Classical Studies intereste
 
 This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities.
 
-## Journals:
+<h2>Journals:<h2>
 
   - Internet Archaeology -- https://intarch.ac.uk/
   - The Journal of Computer Applications in Archaeology (JCAA) -- https://journal.caa-international.org/
   - Archaeological Prospection -- https://onlinelibrary.wiley.com/journal/10990763
   - Advances in Archaeological Practice -- https://www.cambridge.org/core/journals/advances-in-archaeological-practice
 
-## Awards/Fellowships:
+<h2>Awards/Fellowships:</h2>
 
  - Award for Outstanding Work in Digital Archaeology -- https://www.archaeological.org/grant/digital-archaeology-award/
 
-## Conferences:
+<h2>Conferences:</h2>
 
   - Computer Applications and Quantitative Methods in Archaeology (CAA) international conference -- https://2020.caaconference.org/
 
-## Digital Archives/Databases for Archaeology:
+<h2>Digital Archives/Databases for Archaeology:</h2>
 
   - tDAR -- https://www.tdar.org/about/
   - Open Context -- https://opencontext.org/
   - Archaeological Data Service -- https://archaeologydataservice.ac.uk/
 
-## Tools/Programs/Resources:
+<h2>Tools/Programs/Resources:</h2>
 
   Online Programs and Softwares:
 
@@ -105,8 +104,10 @@ This is a resource for archaeology students interested in digital archaeology an
        - Bryn Mawr Library Classical and Near Eastern Archaeology Resources page:     https://guides.tricolib.brynmawr.edu/classical-and-near-eastern-archaeology
        - Brown University Library's Archaeology Resources page: https://libguides.brown.edu/archaeology/home
 
-## Associations/Organizations
+<h2>Associations/Organizations</h2>
 
  - The Institute for Digital Archaeology -- http://digitalarchaeology.org.uk/our-purpose
  - Center for Digital Archaeology -- https://digitalarch.org/
  - ARCHES Projects: https://www.archesproject.org/
+
+ </html>
