@@ -1,115 +1,99 @@
-#Digital Classics Resources
+#Digital Classics Resources:
 
 This is a resource for students in Greek, Latin, and Classical Studies interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities.
 
-## Text Resources:
-1.	Perseus (http://www.perseus.tufts.edu/hopper/)
-2.	TLG
-3.	The Leipzig Open Fragmentary Texts Series (https://www.dh.uni-leipzig.de/wo/lofts/)
-4.	The Tesserae Project (https://tesserae.caset.buffalo.edu/)
-5.	Digital Latin Library (https://digitallatin.org/)
-6.	Lacus Curtius (http://penelope.uchicago.edu/Thayer/E/Roman/home.html)
-7.	Homer MultiText (http://www.homermultitext.org/)
-8.	ToposText (https://topostext.org/)
+##Resources:
 
-## Mapping:
-1.	Hestia (https://hestia.open.ac.uk/hestia/)
-2.	Pleiades (https://pleiades.stoa.org/)
-3.	ORBIS (http://orbis.stanford.edu/index.html)
+  - Perseus (http://www.perseus.tufts.edu/hopper/)
+  - TLG
+  - The Leipzig Open Fragmentary Texts Series (https://www.dh.uni-leipzig.de/wo/lofts/)
+  - The Tesserae Project (https://tesserae.caset.buffalo.edu/)
+  - Digital Latin Library (https://digitallatin.org/)
+  - Lacus Curtius (http://penelope.uchicago.edu/Thayer/E/Roman/home.html)
+  - Homer MultiText (http://www.homermultitext.org/)
+  - ToposText (https://topostext.org/)
 
-## Networking:
-1.	SNAPDRGN (https://snapdrgn.net/)
+##Mapping:
 
-## Databases of Resources:
-1.	https://classicalstudies.org/blogs/digital-humanities
-2.	https://guides.library.harvard.edu/interlibros/classics_digital
-3.	https://eadh.org/projects
-4.	http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages
-5.	https://www.sacred-texts.com/
-6.	http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/
-7. https://www.aarome.org/research/resources/periodical-indexes
+  - Hestia (https://hestia.open.ac.uk/hestia/)
+  - Pleiades (https://pleiades.stoa.org/)
+  - ORBIS (http://orbis.stanford.edu/index.html)
 
-## Educational Resources:
-1.	https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx (linked data)
+##Networking:
+
+  - SNAPDRGN (https://snapdrgn.net/)
+
+##Databases of Resources:
+
+  - https://classicalstudies.org/blogs/digital-humanities
+  - https://guides.library.harvard.edu/interlibros/classics_digital
+  - https://eadh.org/projects
+  - http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages
+  - https://www.sacred-texts.com/
+  - http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/
+  - https://www.aarome.org/research/resources/periodical-indexes
+
+##Educational Resources:
+
+  - https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx (linked data)
 
 
-# Digital Archaeology Resources
+#Digital Archaeology Resources:
 
 This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities.
 
-## Journals:
+##Journals:
 
   - Internet Archaeology -- https://intarch.ac.uk/
-
   - The Journal of Computer Applications in Archaeology (JCAA) -- https://journal.caa-international.org/
-
   - Archaeological Prospection -- https://onlinelibrary.wiley.com/journal/10990763
-
   - Advances in Archaeological Practice -- https://www.cambridge.org/core/journals/advances-in-archaeological-practice
 
-
-## Awards/Fellowships:
+##Awards/Fellowships:
 
  - Award for Outstanding Work in Digital Archaeology -- https://www.archaeological.org/grant/digital-archaeology-award/
 
-## Conferences:
+##Conferences:
 
   - Computer Applications and Quantitative Methods in Archaeology (CAA) international conference -- https://2020.caaconference.org/
 
-## Digital Archives/Databases for Archaeology:
+<h2>Digital Archives/Databases for Archaeology:</h2>
 
   - tDAR -- https://www.tdar.org/about/
-
   - Open Context -- https://opencontext.org/
-
   - Archaeological Data Service -- https://archaeologydataservice.ac.uk/
 
-## Tools/Programs/Resources:
+##Tools/Programs/Resources:
 
   Online Programs and Softwares:
 
   - Esri -- https://www.esri.com/en-us/home
-
     - ArcGIS
     - ArcMap
     - 3D Analyst and ArcScene
-
   - Artec and 3D scanning -- https://www.artec3d.com/
-
   - Sketchfab -- https://sketchfab.com/
-
   - Archaeofusion -- http://archaeofusion.com/manual/application.htm?MenuState=AcOXw7VVV1V177SE77SGVe-0iu-0ihUtAQEAAA
-
   - CAD -- for making maps or creating 3D buildings/objects
-
   - StoryMaps
-
     - Knightlab: https://knightlab.northwestern.edu/
     - Mapbox: https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/
     - ArcGIS StoryMaps: https://storymaps.arcgis.com/
 
   Online Resource Tools:
 
-
    - A Companion to Digital Humanities, edited by Susan Schreibman, Ray Siemens, John Unsworth, 2004: http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand
-
    - American Academy in Rome:
-
        - Research Databases/Digital Collections: https://www.aarome.org/research/resources/periodical-indexes
        - Maps and GIS: https://www.aarome.org/research/resources/maps-gis
        - Online Catalogs: https://www.aarome.org/research/resources/online-catalogs
        - Digital Humanities Center: http://dhc.aarome.org/
-
    - LibGuides:
-
        - Bryn Mawr Library Classical and Near Eastern Archaeology Resources page:     https://guides.tricolib.brynmawr.edu/classical-and-near-eastern-archaeology
        - Brown University Library's Archaeology Resources page: https://libguides.brown.edu/archaeology/home
 
-
-## Associations/Organizations
+##Associations/Organizations:
 
  - The Institute for Digital Archaeology -- http://digitalarchaeology.org.uk/our-purpose
-
  - Center for Digital Archaeology -- https://digitalarch.org/
-
  - ARCHES Projects: https://www.archesproject.org/
