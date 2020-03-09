@@ -37,12 +37,12 @@
   <li> Sacred Text Archive: <a ref="https://www.sacred-texts.com/">https://www.sacred-texts.com/</a></li>
   <li> Open Greek and Latin Project: <a ref="http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/">http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/</a></li>
   <li> American Academy in Rome: <a ref="https://www.aarome.org/research/resources/periodical-indexes">https://www.aarome.org/research/resources/periodical-indexes</a></li>
-</ul>
+  </ul>
 
 <h3>Educational Resources:</h3>
   <ul>
   <li> Linked Data: <a ref="https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx">https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx</a></li>
-</ul>
+  </ul>
 
 <h2>Digital Archaeology Resources:</h2>
 
@@ -54,24 +54,24 @@
   <li> The Journal of Computer Applications in Archaeology (JCAA): <a ref="https://journal.caa-international.org/">https://journal.caa-international.org/</a></li>
   <li> Archaeological Prospection: <a ref="https://onlinelibrary.wiley.com/journal/10990763">https://onlinelibrary.wiley.com/journal/10990763</a></li>
   <li> Advances in Archaeological Practice: <a ref="https://www.cambridge.org/core/journals/advances-in-archaeological-practice">https://www.cambridge.org/core/journals/advances-in-archaeological-practice</a></li>
-</ul>
+  </ul>
 
 <h3>Awards/Fellowships:</h3>
-<ul>
-<li> Award for Outstanding Work in Digital Archaeology: <a ref="https://www.archaeological.org/grant/digital-archaeology-award/">https://www.archaeological.org/grant/digital-archaeology-award/</a></li>
-</ul>
+  <ul>
+  <li> Award for Outstanding Work in Digital Archaeology: <a ref="https://www.archaeological.org/grant/digital-archaeology-award/">https://www.archaeological.org/grant/digital-archaeology-award/</a></li>
+  </ul>
 
 <h3>Conferences:</h3>
-<ul>
+  <ul>
   <li> Computer Applications and Quantitative Methods in Archaeology (CAA): <a ref="https://2020.caaconference.org/">https://2020.caaconference.org/</a></li>
-</ul>
+  </ul>
 
 <h3>Digital Archives/Databases for Archaeology:</h3>
-<ul>
-<li> tDAR:  <a ref="https://www.tdar.org/about/">https://www.tdar.org/about/</a></li>
-<li> Open Context:  <a ref="https://opencontext.org/">https://opencontext.org/</a></li>
-<li> Archaeological Data Service:  <a ref="https://archaeologydataservice.ac.uk/">https://archaeologydataservice.ac.uk/</a></li>
-</ul>
+  <ul>
+  <li> tDAR:  <a ref="https://www.tdar.org/about/">https://www.tdar.org/about/</a></li>
+  <li> Open Context:  <a ref="https://opencontext.org/">https://opencontext.org/</a></li>
+  <li> Archaeological Data Service:  <a ref="https://archaeologydataservice.ac.uk/">https://archaeologydataservice.ac.uk/</a></li>
+  </ul>
 
 <h3>Tools/Programs/Resources:</h3>
 Online Programs and Softwares:
@@ -87,10 +87,10 @@ Online Programs and Softwares:
     <li> Sketchfab:  <a ref="https://sketchfab.com/">https://sketchfab.com/</a></li>
     <li> Archaeofusion:  <a ref="http://archaeofusion.com/manual/application.htm?MenuState=AcOXw7VVV1V177SE77SGVe-0iu-0ihUtAQEAAA">http://archaeofusion.com/manual/application.htm?MenuState=AcOXw7VVV1V177SE77SGVe-0iu-0ihUtAQEAAA</a></li>
     <li> CAD:  <a ref="https://www.autodesk.com/solutions/cad-software">https://www.autodesk.com/solutions/cad-software</a></li>
-   <li> Knightlab:  <a ref="https://knightlab.northwestern.edu/">https://knightlab.northwestern.edu/</a></li>
+    <li> Knightlab:  <a ref="https://knightlab.northwestern.edu/">https://knightlab.northwestern.edu/</a></li>
     <li> Mapbox:  <a ref="https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/">https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/</a></li>
     <li> ArcGIS StoryMaps:  <a ref="https://storymaps.arcgis.com/">https://storymaps.arcgis.com/</a></li>
-  </ul>
+    </ul>
 
   Online Resource Tools:
   <ul>
@@ -106,10 +106,12 @@ Online Programs and Softwares:
      <ul>
        <li> Bryn Mawr Library Classical and Near Eastern Archaeology Resources page: <a ref="https://guides.tricolib.brynmawr.edu/classical-and-near-eastern-archaeology">https://guides.tricolib.brynmawr.edu/classical-and-near-eastern-archaeology</a></li>
        <li> Brown University Library's Archaeology Resources page: <a ref="https://libguides.brown.edu/archaeology/home">https://libguides.brown.edu/archaeology/home</a></li>
-</ul>
-</ul>
+  </ul>
+  </ul>
+  
 <h3>Associations/Organizations:</h3>
   <ul>
     <li> The Institute for Digital Archaeology: <a ref="http://digitalarchaeology.org.uk/our-purpose">http://digitalarchaeology.org.uk/our-purpose</a></li>
     <li> Center for Digital Archaeology: <a ref="https://digitalarch.org/">https://digitalarch.org/</a></li>
     <li> ARCHES Projects: <a ref="https://www.archesproject.org/">https://www.archesproject.org/</a></li>
+    </ul>
