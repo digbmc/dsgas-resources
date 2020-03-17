@@ -72,7 +72,7 @@ This is a resource for archaeology students interested in digital archaeology an
 
 #### Online Resource Tools:
 - [A Companion to Digital Humanities](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand): 
-- American Academy in Rome:
+- American Academy in Rome Resources:
   * [Research Databases/Digital Collections](https://www.aarome.org/research/resources/periodical-indexes): 
   * [Maps and GIS](https://www.aarome.org/research/resources/maps-gis): 
   * [Online Catalogs](https://www.aarome.org/research/resources/online-catalogs):
