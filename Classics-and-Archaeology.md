@@ -79,7 +79,7 @@ This is a resource for archaeology students interested in digital archaeology an
 ### Conferences:
 - [Computer Applications and Quantitative Methods in Archaeology (CAA)](https://2020.caaconference.org/): 
 
-### Digital Archives/Databases for Archaeology:
+### Digital Archives/Databases for Archaeology: 
 - [tDAR](https://www.tdar.org/about/): 
 - [Open Context](https://opencontext.org/): 
 - [Archaeological Data Service](https://archaeologydataservice.ac.uk/):
@@ -107,14 +107,11 @@ The following resources provide tools, softwares, and digital programs that allo
    
 - [Archaeofusion](http://archaeofusion.com/manual/application.htm?MenuState=AcOXw7VVV1V177SE77SGVe-0iu-0ihUtAQEAAA): ArchaeoFusionis a software package for assembling, processing, and integrating multiple geophysical datasets collected at an archeological site. It could be used for other applications in near surface geophysics, but was designed specifically for multi-sensor archaeological geophysics. 
 
-#### Online Resource Tools:
+#### Further Resources for Digital Archaeology:
 - [A Companion to Digital Humanities](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand): 
 - American Academy in Rome Resources:
   * [Research Databases/Digital Collections](https://www.aarome.org/research/resources/periodical-indexes): 
   * [Maps and GIS](https://www.aarome.org/research/resources/maps-gis): 
   * [Online Catalogs](https://www.aarome.org/research/resources/online-catalogs):
   * [Digital Humanities Center](http://dhc.aarome.org/): 
-- LibGuides:
-  * [Bryn Mawr Library Classical and Near Eastern Archaeology Resources](https://guides.tricolib.brynmawr.edu/classical-and-near-eastern-archaeology): 
-  * [Brown University Library's Archaeology Resources](https://libguides.brown.edu/archaeology/home): 
 
