@@ -65,7 +65,7 @@ The following website is concerned with further educational tools necessary for 
 
 ## Digital Archaeology Resources:
 
-This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities.
+This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become further involved in these communities.
 
 ### Journals:
 - [Internet Archaeology](https://intarch.ac.uk/"): 
@@ -88,19 +88,24 @@ This is a resource for archaeology students interested in digital archaeology an
 The following resources provide tools, softwares, and digital programs that allow users to create maps, 3D models, storymaps, and more. 
 
 #### Online Programs and Softwares:
-- [Esri Resources](https://www.esri.com/en-us/home): 
-  * ArcGIS
-  * ArcMap
-  * 3D Analyst and ArcScene 
-  * StoryMaps
-- [Artec and 3D Scanning](https://www.artec3d.com/): 
-- [Sketchfab](https://sketchfab.com/): 
-- [Archaeofusion](http://archaeofusion.com/manual/application.htm?MenuState=AcOXw7VVV1V177SE77SGVe-0iu-0ihUtAQEAAA):
-- [CAD](https://www.autodesk.com/solutions/cad-software): 
+- [Esri](https://www.esri.com/en-us/home): Esri is one of the leading manufactuters in geographic information system (GIS) technology, location intelligence, mapping software, and spatial analytics. It builds and offers programs such as ArcGIS, a software that combines mapping and data analytics to deliver location intelligence and meet digital transformation needs for organizations of all sizes.
+  -Software programs offered by Esri include:
+   * ArcGIS
+   * ArcMap
+   * 3D Analyst and ArcScene 
+   * ArcGIS StoryMaps
+
 - StoryMaps:
-  - [Knightlab](https://knightlab.northwestern.edu/): 
-  - [Mapbox](https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/): 
-  - [ArcGIS StoryMaps](https://storymaps.arcgis.com/): 
+  - [Knightlab](https://knightlab.northwestern.edu/)
+  - [Mapbox](https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/) 
+  - [ArcGIS StoryMaps](https://storymaps.arcgis.com/)
+   
+- 3D Modeling Programs:   
+   - [Artec and 3D Scanning](https://www.artec3d.com/)
+   - [Sketchfab](https://sketchfab.com/)
+   - [computer-aided design and drafting (CADD)](https://www.autodesk.com/solutions/cad-software)
+   
+- [Archaeofusion](http://archaeofusion.com/manual/application.htm?MenuState=AcOXw7VVV1V177SE77SGVe-0iu-0ihUtAQEAAA): ArchaeoFusionis a software package for assembling, processing, and integrating multiple geophysical datasets collected at an archeological site. It could be used for other applications in near surface geophysics, but was designed specifically for multi-sensor archaeological geophysics. 
 
 #### Online Resource Tools:
 - [A Companion to Digital Humanities](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand): 
