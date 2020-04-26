@@ -33,9 +33,14 @@ The following sites contain collections of Ancient Greek and Classical Latin wor
 - [ToposText](https://topostext.org/): ToposText is an indexed collection of ancient texts and mapped places relevant the the history and mythology of the ancient Greeks from the Neolithic period up through the 2nd century CE. 
 
 ### Mapping:
-- [Hestia](https://hestia.open.ac.uk/hestia/): 
-- [Pleiades](https://pleiades.stoa.org/): 
-- [ORBIS](http://orbis.stanford.edu/index.html): 
+
+The following websites provide maps and mapping tools relating to the mapping of Classical written texts. 
+
+- [Hestia](https://hestia.open.ac.uk/hestia/): The Hestia project takes up the Greek historian Herodotus’s enquiry through the digital medias and technologies, and involves a collaborative team of researchers from Classical Studies, Geography and Digital Humanities. Using a digital text of Herodotus’s Histories, from which the project extracted all place-names, it uses web-mapping technologies such as GIS, Google Earth and Narrative TimeMap to investigate the cultural geography of the ancient world through the eyes of one of its first witnesses.
+
+- [Pleiades](https://pleiades.stoa.org/): Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. 
+
+- [ORBIS](http://orbis.stanford.edu/index.html): ORBIS: The Stanford Geospatial Network Model of the Roman World reconstructs the time cost and financial expense associated with a wide range of different types of travel in antiquity. The model is based on a simplified version of the giant network of cities, roads, rivers and sea lanes that framed movement across the Roman Empire. It broadly reflects conditions around 200 CE but also covers a few sites and roads created in late antiquity. (Note, ORBIS is designed for modern browsers and uses technology that works best in Chrome or Safari)
 
 ### Networking:
 - [SNAPDRGN](https://snapdrgn.net/):
