@@ -1,4 +1,4 @@
-# Digital Resources for Archaeology, Classics, and History of Art
+# Digital Resources for Archaeology and Classics
 
 This is a resource for students in Classical Archaeology, Greek, Latin, and Ancient History interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
 
@@ -22,7 +22,7 @@ The following sites contain collections of Ancient Greek and Classical Latin wor
 
 - [Digital Latin Library](https://digitallatin.org/): The DLL Catalog provides an organized, curated online system for finding Latin texts that are available digitally. Currently, it contains nearly 3,000 authors and 5,000 works, with many more to come. It also contains individual item records for hundreds of texts available in a variety of formats through many different resources such as the Perseus Digital Library, the Packard Humanities Institute, DigilibLT, the HathiTrust Digital Library, and others.
 
-- [DYABOLA](http://www.dyabola.de/en/indexfrm.htm?page=http://www.dyabola.de/): An online collection of books, book reviews, and journal articles in the disciplines of classics, prehistory and ancient history, archaeology, numismatics, epigraphy, and philology are indexed, including subject access based on the Realkatalog of the German Archaeological Institute. Most of the citations are to works not in English.
+- [DYABOLA](http://www.dyabola.de/en/indexfrm.htm?page=http://www.dyabola.de/): An online collection of books, book reviews, and journal articles in the disciplines of classics, prehistory and ancient history, archaeology, numismatics, epigraphy, and philology are indexed, including subject access based on the Realkatalog of the German Archaeological Institute. Contains several databases, the largest of which is the Archäologische Bibliographie, or "Realkatalog des Deutschen Archäologischen Instituts Rom," the most comprehensive database for classical archaeology. Most of the citations are to works not in English.
 
 - [Loeb classical library](https://www-loebclassics-com.proxy.brynmawr.edu/): The complete digital Loeb Classical Library is fully accessible via a Bryn Mawr College subscription. More than 520 volumes of Latin and Greek texts with English translation are available in a modern and elegant interface, allowing readers to browse, search, bookmark, annotate, and share content.
 
@@ -58,7 +58,10 @@ Ths following websites are databases that contain further resources for those in
 - [American Academy in Rome](https://www.aarome.org/research/resources/periodical-indexes): 
 
 ### Educational Resources:
-- [Linked Data](https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx): 
+
+The following website is concerned with further educational tools necessary for the created of Digital Scholarship. 
+
+- [Linked Data](https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx): Linked Data is a set of best practices for publishing and connecting structured data on the web. It is about making data on the web machine-readable and providing connections and links to other data sets. By publishing data in this way it can also be linked to from other external data sets. 
 
 ## Digital Archaeology Resources:
 
@@ -82,6 +85,8 @@ This is a resource for archaeology students interested in digital archaeology an
 - [Archaeological Data Service](https://archaeologydataservice.ac.uk/):
 
 ### Tools/Programs/Resources:
+The following resources provide tools, softwares, and digital programs that allow users to create maps, 3D models, storymaps, and more. 
+
 #### Online Programs and Softwares:
 - [Esri Resources](https://www.esri.com/en-us/home): 
   * ArcGIS
@@ -92,9 +97,10 @@ This is a resource for archaeology students interested in digital archaeology an
 - [Sketchfab](https://sketchfab.com/): 
 - [Archaeofusion](http://archaeofusion.com/manual/application.htm?MenuState=AcOXw7VVV1V177SE77SGVe-0iu-0ihUtAQEAAA):
 - [CAD](https://www.autodesk.com/solutions/cad-software): 
-- [Knightlab](https://knightlab.northwestern.edu/): 
-- [Mapbox](https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/): 
-- [ArcGIS StoryMaps](https://storymaps.arcgis.com/): 
+- StoryMaps:
+  - [Knightlab](https://knightlab.northwestern.edu/): 
+  - [Mapbox](https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/): 
+  - [ArcGIS StoryMaps](https://storymaps.arcgis.com/): 
 
 #### Online Resource Tools:
 - [A Companion to Digital Humanities](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand): 
