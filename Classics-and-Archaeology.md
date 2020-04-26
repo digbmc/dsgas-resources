@@ -46,10 +46,13 @@ The following websites provide maps and mapping tools relating to the mapping of
 - [SNAPDRGN](https://snapdrgn.net/):
 
 ### Databases for further Resources:
+
+Ths following websites are databases that contain further resources for those interested in Classical languages and history.
+
 - [Society for Classical Studies](https://classicalstudies.org/blogs/digital-humanities): 
 - [Harvard Library](https://guides.library.harvard.edu/interlibros/classics_digital): 
 - [European Association for Humanities](https://eadh.org/projects): 
-- [Digital Classicist](http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages): 
+- [Digital Classicist](http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages):
 - [Sacred Text Archive](https://www.sacred-texts.com/): 
 - [Open Greek and Latin Project](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/): 
 - [American Academy in Rome](https://www.aarome.org/research/resources/periodical-indexes): 
