@@ -1,18 +1,23 @@
 # Digital Resources for Archaeology, Classics, and History of Art
 
-This is a resource for students in Greek, Latin, and Classical Studies interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
+This is a resource for students in Classical Archaeology, Greek, Latin, and Ancient History interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
 
 ## Digital Resources for Classics
 
+This is a resource for students in Greek, Latin, and Classical Studies interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
+
 ### Digital Texts
-- [Perseus](http://www.perseus.tufts.edu/hopper/):  
-- [Thesarus Lingue Greacae](http://stephanus.tlg.uci.edu/ "Thesaurus Linguae Graecae (TLG)") (TLG):
-- [The Leipzig Open Fragmentary Texts Series](https://www.dh.uni-leipzig.de/wo/lofts/): 
-- [The Tesserae Project](https://tesserae.caset.buffalo.edu/): 
-- [Digital Latin Library](https://digitallatin.org/): 
-- [Lacus Curtius](http://penelope.uchicago.edu/Thayer/E/Roman/home.html): 
-- [Homer MultiText](http://www.homermultitext.org/): 
-- [ToposText](https://topostext.org/): 
+
+The following sites contain collections of Ancient Greek and Classical Latin works. Regarding themselves as Digital Libraries, these sites provide digital editions to works from the Classical Antiquity. 
+
+- [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)  
+- [Thesarus Lingue Greacae](http://stephanus.tlg.uci.edu/ "Thesaurus Linguae Graecae (TLG)") (TLG)
+- [The Leipzig Open Fragmentary Texts Series](https://www.dh.uni-leipzig.de/wo/lofts/)
+- [The Tesserae Project](https://tesserae.caset.buffalo.edu/)
+- [Digital Latin Library](https://digitallatin.org/)
+- [Lacus Curtius](http://penelope.uchicago.edu/Thayer/E/Roman/home.html)
+- [Homer MultiText](http://www.homermultitext.org/)
+- [ToposText](https://topostext.org/)
 
 ### Mapping:
 - [Hestia](https://hestia.open.ac.uk/hestia/): 
