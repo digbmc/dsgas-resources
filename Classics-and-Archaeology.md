@@ -1,6 +1,6 @@
 # Digital Resources for Archaeology and Classics
 
-This is a resource for students in Classical Archaeology, Greek, Latin, and Ancient History interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
+This is a resource for students in Classical Archaeology, Greek, Latin, and Ancient History interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in digital scholarship and humanities. 
 
 ## Digital Resources for Classics
 
@@ -34,16 +34,13 @@ The following sites contain collections of Ancient Greek and Classical Latin wor
 
 ### Mapping:
 
-The following websites provide maps and mapping tools relating to the mapping of Classical written texts. 
+The following websites provide maps and cartographic tools relating to the mapping of Classical sites, routes, connections, and people of the Ancient World.
 
 - [Hestia](https://hestia.open.ac.uk/hestia/): The Hestia project takes up the Greek historian Herodotus’s enquiry through the digital medias and technologies, and involves a collaborative team of researchers from Classical Studies, Geography and Digital Humanities. Using a digital text of Herodotus’s Histories, from which the project extracted all place-names, it uses web-mapping technologies such as GIS, Google Earth and Narrative TimeMap to investigate the cultural geography of the ancient world through the eyes of one of its first witnesses.
 
 - [Pleiades](https://pleiades.stoa.org/): Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. 
 
 - [ORBIS](http://orbis.stanford.edu/index.html): ORBIS: The Stanford Geospatial Network Model of the Roman World reconstructs the time cost and financial expense associated with a wide range of different types of travel in antiquity. The model is based on a simplified version of the giant network of cities, roads, rivers and sea lanes that framed movement across the Roman Empire. It broadly reflects conditions around 200 CE but also covers a few sites and roads created in late antiquity. (Note, ORBIS is designed for modern browsers and uses technology that works best in Chrome or Safari)
-
-### Networking:
-- [SNAPDRGN](https://snapdrgn.net/):
 
 ### Databases for further Resources:
 
@@ -62,6 +59,7 @@ Ths following websites are databases that contain further resources for those in
 The following website is concerned with further educational tools necessary for the created of Digital Scholarship. 
 
 - [Linked Data](https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx): Linked Data is a set of best practices for publishing and connecting structured data on the web. It is about making data on the web machine-readable and providing connections and links to other data sets. By publishing data in this way it can also be linked to from other external data sets. 
+
 
 ## Digital Archaeology Resources:
 
