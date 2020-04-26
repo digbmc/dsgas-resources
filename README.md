@@ -46,17 +46,17 @@ The following websites provide maps and cartographic tools relating to the mappi
 
 Ths following websites are databases that contain further resources for those interested in Classical languages and history.
 
-- [Society for Classical Studies](https://classicalstudies.org/blogs/digital-humanities)
-- [Harvard Library](https://guides.library.harvard.edu/interlibros/classics_digital)
-- [European Association for Humanities](https://eadh.org/projects)
-- [Digital Classicist](http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages)
-- [Sacred Text Archive](https://www.sacred-texts.com/)
-- [Open Greek and Latin Project](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/)
-- [American Academy in Rome](https://www.aarome.org/research/resources/periodical-indexes)
+- [Society for Classical Studies](https://classicalstudies.org/blogs/digital-humanities): 
+- [Harvard Library](https://guides.library.harvard.edu/interlibros/classics_digital): 
+- [European Association for Humanities](https://eadh.org/projects): 
+- [Digital Classicist](http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages):
+- [Sacred Text Archive](https://www.sacred-texts.com/): 
+- [Open Greek and Latin Project](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/): 
+- [American Academy in Rome](https://www.aarome.org/research/resources/periodical-indexes): 
 
 ### Educational Resources:
 
-The following website is concerned with further educational tools necessary for the created of Digital Scholarship. 
+The following website is concerned with further educational tools necessary for the creation of Digital Scholarship.
 
 - [Linked Data](https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx): Linked Data is a set of best practices for publishing and connecting structured data on the web. It is about making data on the web machine-readable and providing connections and links to other data sets. By publishing data in this way it can also be linked to from other external data sets. 
 
@@ -66,27 +66,27 @@ The following website is concerned with further educational tools necessary for 
 This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become further involved in these communities.
 
 ### Journals:
-- [Internet Archaeology](https://intarch.ac.uk/")
-- [The Journal of Computer Applications in Archaeology](https://journal.caa-international.org/) 
-- [Archaeological Prospection](https://onlinelibrary.wiley.com/journal/10990763)
-- [Advances in Archaeological Practice](https://www.cambridge.org/core/journals/advances-in-archaeological-practice) 
+- [Internet Archaeology](https://intarch.ac.uk/"): 
+- [The Journal of Computer Applications in Archaeology](https://journal.caa-international.org/): 
+- [Archaeological Prospection](https://onlinelibrary.wiley.com/journal/10990763): 
+- [Advances in Archaeological Practice](https://www.cambridge.org/core/journals/advances-in-archaeological-practice): 
 
 ### Awards/Fellowships:
-- [Award for Outstanding Work in Digital Archaeology](https://www.archaeological.org/grant/digital-archaeology-award/) 
+- [Award for Outstanding Work in Digital Archaeology](https://www.archaeological.org/grant/digital-archaeology-award/): 
 
 ### Conferences:
-- [Computer Applications and Quantitative Methods in Archaeology (CAA)](https://2020.caaconference.org/)
+- [Computer Applications and Quantitative Methods in Archaeology (CAA)](https://2020.caaconference.org/): 
 
 ### Digital Archives/Databases for Archaeology: 
-- [tDAR](https://www.tdar.org/about/)
-- [Open Context](https://opencontext.org/)
-- [Archaeological Data Service](https://archaeologydataservice.ac.uk/)
+- [tDAR](https://www.tdar.org/about/): 
+- [Open Context](https://opencontext.org/): 
+- [Archaeological Data Service](https://archaeologydataservice.ac.uk/):
 
 ### Tools/Programs/Resources:
 The following resources provide tools, softwares, and digital programs that allow users to create maps, 3D models, storymaps, and more. 
 
 #### Online Programs and Softwares:
-- [Esri](https://www.esri.com/en-us/home): Esri is one of the leading manufactuters in geographic information system (GIS) technology, location intelligence, mapping software, and spatial analytics. It builds and offers programs such as ArcGIS, a software that combines mapping and data analytics to deliver location intelligence and meet digital transformation needs for organizations of all sizes.
+- [Esri](https://www.esri.com/en-us/home): Esri is one of the leading manufacturers in geographic information system (GIS) technology, location intelligence, mapping software, and spatial analytics. It builds and offers programs such as ArcGIS, a software that combines mapping and data analytics to deliver location intelligence and meet digital transformation needs for organizations of all sizes.
   -Software programs offered by Esri include:
    * ArcGIS
    * ArcMap
@@ -106,10 +106,9 @@ The following resources provide tools, softwares, and digital programs that allo
 - [Archaeofusion](http://archaeofusion.com/manual/application.htm?MenuState=AcOXw7VVV1V177SE77SGVe-0iu-0ihUtAQEAAA): ArchaeoFusionis a software package for assembling, processing, and integrating multiple geophysical datasets collected at an archeological site. It could be used for other applications in near surface geophysics, but was designed specifically for multi-sensor archaeological geophysics. 
 
 #### Further Resources for Digital Archaeology:
-- [A Companion to Digital Humanities](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand)
-
+- [A Companion to Digital Humanities](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand): 
 - American Academy in Rome Resources:
-  * [Research Databases/Digital Collections](https://www.aarome.org/research/resources/periodical-indexes) 
-  * [Maps and GIS](https://www.aarome.org/research/resources/maps-gis)
-  * [Online Catalogs](https://www.aarome.org/research/resources/online-catalogs)
-  * [Digital Humanities Center](http://dhc.aarome.org/)
+  * [Research Databases/Digital Collections](https://www.aarome.org/research/resources/periodical-indexes): 
+  * [Maps and GIS](https://www.aarome.org/research/resources/maps-gis): 
+  * [Online Catalogs](https://www.aarome.org/research/resources/online-catalogs):
+  * [Digital Humanities Center](http://dhc.aarome.org/): 
