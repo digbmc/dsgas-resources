@@ -56,7 +56,7 @@ Ths following websites are databases that contain further resources for those in
 
 ### Educational Resources:
 
-The following website is concerned with further educational tools necessary for the created of Digital Scholarship. 
+The following website is concerned with further educational tools necessary for the creation of Digital Scholarship.
 
 - [Linked Data](https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx): Linked Data is a set of best practices for publishing and connecting structured data on the web. It is about making data on the web machine-readable and providing connections and links to other data sets. By publishing data in this way it can also be linked to from other external data sets. 
 
@@ -86,7 +86,7 @@ This is a resource for archaeology students interested in digital archaeology an
 The following resources provide tools, softwares, and digital programs that allow users to create maps, 3D models, storymaps, and more. 
 
 #### Online Programs and Softwares:
-- [Esri](https://www.esri.com/en-us/home): Esri is one of the leading manufactuters in geographic information system (GIS) technology, location intelligence, mapping software, and spatial analytics. It builds and offers programs such as ArcGIS, a software that combines mapping and data analytics to deliver location intelligence and meet digital transformation needs for organizations of all sizes.
+- [Esri](https://www.esri.com/en-us/home): Esri is one of the leading manufacturers in geographic information system (GIS) technology, location intelligence, mapping software, and spatial analytics. It builds and offers programs such as ArcGIS, a software that combines mapping and data analytics to deliver location intelligence and meet digital transformation needs for organizations of all sizes.
   -Software programs offered by Esri include:
    * ArcGIS
    * ArcMap
