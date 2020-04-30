@@ -1,4 +1,3 @@
-# Digital Resources for Archaeology and Classics
 
 This is a resource for students in Classical Archaeology, Greek, Latin, and Ancient History interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in digital scholarship and humanities. 
 
