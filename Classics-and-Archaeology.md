@@ -1,7 +1,7 @@
 
 This is a resource for students in Classical Archaeology, Greek, Latin, and Ancient History interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in digital scholarship and humanities. 
 
-## Digital Resources for Classics
+# Digital Resources for Classics
 
 This is a resource for students in Greek, Latin, and Classical Studies interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
 
@@ -43,15 +43,15 @@ The following websites provide maps and cartographic tools relating to the mappi
 
 ### Databases for further Resources:
 
-Ths following websites are databases that contain further resources for those interested in Classical languages and history.
+The following websites are databases that contain further resources for those interested in Classical languages and history.
 
-- [Society for Classical Studies](https://classicalstudies.org/blogs/digital-humanities): 
-- [Harvard Library](https://guides.library.harvard.edu/interlibros/classics_digital): 
-- [European Association for Humanities](https://eadh.org/projects): 
-- [Digital Classicist](http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages):
-- [Sacred Text Archive](https://www.sacred-texts.com/): 
-- [Open Greek and Latin Project](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/): 
-- [American Academy in Rome](https://www.aarome.org/research/resources/periodical-indexes): 
+- [Society for Classical Studies](https://classicalstudies.org/blogs/digital-humanities)
+- [Harvard Library](https://guides.library.harvard.edu/interlibros/classics_digital) 
+- [European Association for Humanities](https://eadh.org/projects)
+- [Digital Classicist](http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages)
+- [Sacred Text Archive](https://www.sacred-texts.com/)
+- [Open Greek and Latin Project](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/) 
+- [American Academy in Rome](https://www.aarome.org/research/resources/periodical-indexes)
 
 ### Educational Resources:
 
@@ -60,28 +60,31 @@ The following website is concerned with further educational tools necessary for 
 - [Linked Data](https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx): Linked Data is a set of best practices for publishing and connecting structured data on the web. It is about making data on the web machine-readable and providing connections and links to other data sets. By publishing data in this way it can also be linked to from other external data sets. 
 
 
-## Digital Archaeology Resources:
+# Digital Archaeology Resources:
 
 This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become further involved in these communities.
 
 ### Journals:
-- [Internet Archaeology](https://intarch.ac.uk/"): 
-- [The Journal of Computer Applications in Archaeology](https://journal.caa-international.org/): 
-- [Archaeological Prospection](https://onlinelibrary.wiley.com/journal/10990763): 
-- [Advances in Archaeological Practice](https://www.cambridge.org/core/journals/advances-in-archaeological-practice): 
+- [Internet Archaeology](https://intarch.ac.uk/")
+- [The Journal of Computer Applications in Archaeology](https://journal.caa-international.org/)
+- [Archaeological Prospection](https://onlinelibrary.wiley.com/journal/10990763)
+- [Advances in Archaeological Practice](https://www.cambridge.org/core/journals/advances-in-archaeological-practice) 
 
 ### Awards/Fellowships:
-- [Award for Outstanding Work in Digital Archaeology](https://www.archaeological.org/grant/digital-archaeology-award/): 
+- [Award for Outstanding Work in Digital Archaeology](https://www.archaeological.org/grant/digital-archaeology-award/) 
 
 ### Conferences:
-- [Computer Applications and Quantitative Methods in Archaeology (CAA)](https://2020.caaconference.org/): 
+- [Computer Applications and Quantitative Methods in Archaeology (CAA)](https://2020.caaconference.org/)
 
 ### Digital Archives/Databases for Archaeology: 
-- [tDAR](https://www.tdar.org/about/): 
-- [Open Context](https://opencontext.org/): 
-- [Archaeological Data Service](https://archaeologydataservice.ac.uk/):
 
-### Tools/Programs/Resources:
+The following sites are ditial databases and repositories for archaeological data. They support research, data management, digital data archiving, and collaboration. They offer a wide range of databases that vary in size and cost. Explore each site to learn which one would suit your needs. 
+
+- [tDAR](https://www.tdar.org/about/) 
+- [Open Context](https://opencontext.org/) 
+- [Archaeological Data Service](https://archaeologydataservice.ac.uk/)
+
+## Tools/Programs/Resources:
 The following resources provide tools, softwares, and digital programs that allow users to create maps, 3D models, storymaps, and more. 
 
 #### Online Programs and Softwares:
@@ -92,12 +95,12 @@ The following resources provide tools, softwares, and digital programs that allo
    * 3D Analyst and ArcScene 
    * ArcGIS StoryMaps
 
-- StoryMaps:
+- StoryMaps: Storymaps are one methods of digital story-telling through the use of maps, graphics, videos, and more. They are designed to be interactive, digital narratives based on maps and their data. 
   - [Knightlab](https://knightlab.northwestern.edu/)
   - [Mapbox](https://account.mapbox.com/auth/signin/?route-to=https://studio.mapbox.com/) 
   - [ArcGIS StoryMaps](https://storymaps.arcgis.com/)
    
-- 3D Modeling Programs:   
+- 3D Modeling Programs: The following sites are some of the more common resources used by researchers and students to create 3D models of their artifacts, buildings, sites, and more. 
    - [Artec and 3D Scanning](https://www.artec3d.com/)
    - [Sketchfab](https://sketchfab.com/)
    - [computer-aided design and drafting (CADD)](https://www.autodesk.com/solutions/cad-software)
@@ -107,8 +110,8 @@ The following resources provide tools, softwares, and digital programs that allo
 #### Further Resources for Digital Archaeology:
 - [A Companion to Digital Humanities](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand): 
 - American Academy in Rome Resources:
-  * [Research Databases/Digital Collections](https://www.aarome.org/research/resources/periodical-indexes): 
-  * [Maps and GIS](https://www.aarome.org/research/resources/maps-gis): 
-  * [Online Catalogs](https://www.aarome.org/research/resources/online-catalogs):
-  * [Digital Humanities Center](http://dhc.aarome.org/): 
+  - [Research Databases/Digital Collections](https://www.aarome.org/research/resources/periodical-indexes): 
+  - [Maps and GIS](https://www.aarome.org/research/resources/maps-gis): 
+  - [Online Catalogs](https://www.aarome.org/research/resources/online-catalogs):
+  - [Digital Humanities Center](http://dhc.aarome.org/): 
 
