@@ -65,16 +65,23 @@ The following website is concerned with further educational tools necessary for 
 This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become further involved in these communities.
 
 ### Journals:
+
+The following are peer-reviewed journals concerned with digital methods and research in the field of archaeology.
+
 - [Internet Archaeology](https://intarch.ac.uk/")
 - [The Journal of Computer Applications in Archaeology](https://journal.caa-international.org/)
 - [Archaeological Prospection](https://onlinelibrary.wiley.com/journal/10990763)
 - [Advances in Archaeological Practice](https://www.cambridge.org/core/journals/advances-in-archaeological-practice) 
 
 ### Awards/Fellowships:
+
+The following is an award offered by the Archeaological Institute for America, which recognizes the value of digital scholarship, and aims to encourage its practice. The AIA offers this award to honor individuals, projects, and groups that deploy digital technology in innovative ways in the realms of excavation, research, teaching, publishing, or outreach.
+
 - [Award for Outstanding Work in Digital Archaeology](https://www.archaeological.org/grant/digital-archaeology-award/) 
 
 ### Conferences:
-- [Computer Applications and Quantitative Methods in Archaeology (CAA)](https://2020.caaconference.org/)
+
+- [Computer Applications and Quantitative Methods in Archaeology (CAA)](https://2020.caaconference.org/): The Computer Applications and Quantitative Methods in Archaeology (CAA) is an international organisation that works to bring together archaeologists, mathematicians and computer scientists. Its aims are to encourage communication between these disciplines, to provide a survey of present work in the field and to stimulate discussion and future progress. They hold an annual conference every year.
 
 ### Digital Archives/Databases for Archaeology: 
 
