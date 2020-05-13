@@ -1,18 +1,18 @@
 # Digital Resources for Classics
 
-This is a resource for students in Greek, Latin, and Classical Studies interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to Journals, Awards and Fellowship opportunities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
+This is a resource for students in Greek, Latin, and Classical Studies interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to journals, awards and fellowship opportunities, conferences, online archives and databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
 
 ### Digital Texts
 
-The following sites contain collections of Ancient Greek and Classical Latin works. Regarding themselves as Digital Libraries, these sites provide digital editions to works from the Classical Antiquity. 
+The following sites contain collections of Ancient Greek and Classical Latin works. Regarding themselves as digital libraries, these sites provide digital editions to works from the Classical Antiquity. 
 
 - [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/): A corpus of the majority of ancient Latin and Greek    works, which provides vocabulary and grammar tools for students. The site also provides resources for the study of ancient history, art, and archaeology
 
-- [Thesarus Lingue Greacae (TGL Digital Library)](http://stephanus.tlg.uci.edu/ "Thesaurus Linguae Graecae (TLG)"): The TLG Digital Library currently contains an extensive number of ancient Greek texts surviving from the period between Homer (8th century BCE) and the fall of Byzantium (1453 CE) in excess of 80 million words. It covers a wide range of disciplines such as classics, archaeology, history, art, history, philosophy, linguistics, and theology/religious studies.
+- [Thesaurus Linguae Graecae (TGL Digital Library)](http://stephanus.tlg.uci.edu/ "Thesaurus Linguae Graecae (TLG)"): The TLG Digital Library currently contains an extensive number of ancient Greek texts surviving from the period between Homer (8th century BCE) and the fall of Byzantium (1453 CE) in excess of 80 million words. It covers a wide range of disciplines such as classics, archaeology, history, art, history, philosophy, linguistics, and theology/religious studies.
 
 - [Thesaurus Linguae Latinae (TLL)](https://www.degruyter.com/view/db/tll?language=en): The TLL is the largest and most detailed Latin dictionary in the world. It covers all extant Latin texts from antiquity to approximately 600 CE. It includes the etymology of each Latin word and its development in the romance languages.
 
-- [The Leipzig Open Fragmentary Texts Series](https://www.dh.uni-leipzig.de/wo/lofts/): The Open Fragmentary Text series is a new effort by the University of Leipzig to establish open editions of ancient works that survive only through quotations or fragmentsor text re-uses in later written works. 
+- [The Leipzig Open Fragmentary Texts Series](https://www.dh.uni-leipzig.de/wo/lofts/): The Open Fragmentary Text series is a new effort by the University of Leipzig to establish open editions of ancient works that survive only through quotations or fragments or text re-uses in later written works. 
 
 - [The Tesserae Project](https://tesserae.caset.buffalo.edu/): The Tesserae project aims to provide students and scholars a flexible and robust web interface that allows them to explore intertextual parallels in Greek and Latin texts. 
 
@@ -22,21 +22,21 @@ The following sites contain collections of Ancient Greek and Classical Latin wor
 
 - [Loeb classical library](https://www-loebclassics-com.proxy.brynmawr.edu/): The complete digital Loeb Classical Library is fully accessible via a Bryn Mawr College subscription. More than 520 volumes of Latin and Greek texts with English translation are available in a modern and elegant interface, allowing readers to browse, search, bookmark, annotate, and share content.
 
-- [Lacus Curtius](https://penelope.uchicago.edu/Thayer/E/home.html): An online catologe of websites that provide Greek and Latin texts, inscriptions, and secondary sources such as A Topographical Dictionary of Ancient Rome.
+- [Lacus Curtius](https://penelope.uchicago.edu/Thayer/E/home.html): An online catologue of websites that provide Greek and Latin texts, inscriptions, and secondary sources such as A Topographical Dictionary of Ancient Rome. The sources are translated into English.
 
 - [Homer MultiText](http://www.homermultitext.org/): The Homer Multitext project aims to offer users free access to a library of texts and images and tools to allow readers to discover and engage with the Homeric tradition.
 
-- [ToposText](https://topostext.org/): ToposText is an indexed collection of ancient texts and mapped places relevant the the history and mythology of the ancient Greeks from the Neolithic period up through the 2nd century CE. 
+- [ToposText](https://topostext.org/): ToposText is an indexed collection of ancient texts and mapped places relevant the history and mythology of the ancient Greeks from the Neolithic period up through the 2nd century CE. 
 
 ### Mapping:
 
-The following websites provide maps and cartographic tools relating to the mapping of Classical sites, routes, connections, and people of the Ancient World.
+The following websites provide maps and cartographic tools relating to the mapping of Classical sites, routes, connections, and people of the ancient world.
 
-- [Hestia](https://hestia.open.ac.uk/hestia/): The Hestia project takes up the Greek historian Herodotus’s enquiry through the digital medias and technologies, and involves a collaborative team of researchers from Classical Studies, Geography and Digital Humanities. Using a digital text of Herodotus’s Histories, from which the project extracted all place-names, it uses web-mapping technologies such as GIS, Google Earth and Narrative TimeMap to investigate the cultural geography of the ancient world through the eyes of one of its first witnesses.
+- [Hestia](https://hestia.open.ac.uk/hestia/): The Hestia project takes up the Greek historian Herodotus’ enquiry through the digital medias and technologies, and involves a collaborative team of researchers from Classical Studies, Geography and Digital Humanities. Using a digital text of Herodotus’ Histories, from which the project extracted all place-names, it uses web-mapping technologies such as GIS, Google Earth and Narrative TimeMap to investigate the cultural geography of the ancient world through the eyes of one of its first witnesses.
 
 - [Pleiades](https://pleiades.stoa.org/): Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. 
 
-- [ORBIS](http://orbis.stanford.edu/index.html): ORBIS: The Stanford Geospatial Network Model of the Roman World reconstructs the time cost and financial expense associated with a wide range of different types of travel in antiquity. The model is based on a simplified version of the giant network of cities, roads, rivers and sea lanes that framed movement across the Roman Empire. It broadly reflects conditions around 200 CE but also covers a few sites and roads created in late antiquity. (Note, ORBIS is designed for modern browsers and uses technology that works best in Chrome or Safari)
+- [ORBIS](http://orbis.stanford.edu/index.html): The Stanford Geospatial Network Model of the Roman World reconstructs the time cost and financial expense associated with a wide range of different types of travel in antiquity. The model is based on a simplified version of the giant network of cities, roads, rivers and sea lanes that framed movement across the Roman Empire. It broadly reflects conditions around 200 CE but also covers a few sites and roads created in late antiquity. (Note, ORBIS is designed for modern browsers and uses technology that works best in Chrome or Safari.)
 
 ### Databases for further Resources:
 
