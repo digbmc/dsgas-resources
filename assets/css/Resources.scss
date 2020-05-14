@@ -6,7 +6,7 @@ body {
   padding:0px 0 20px 0px;
   margin: 0px;
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#f0e7d5;
+  color:#ffffff;
   font-weight: normal;
   background: #252525;
   background-attachment: fixed !important;
@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#e8e8e8;
+  color:#00aeef;
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -168,7 +168,7 @@ dt {
       font-size: 14px;
 
       a {
-        color: white;
+        color: #f3b720;
         border: 1px solid #5d910b;
         background: linear-gradient(#93bd20, #659e10);
         border-radius: 2px;
@@ -187,6 +187,7 @@ dt {
           background-color: #659e10;
           border: 1px solid #527f0e;
           box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
+          color: #fff20d
         }
       }
 
@@ -227,10 +228,11 @@ section {
       font-size: 40px;
       text-align: center;
       line-height: 36px;
+      color: #00aeef
     }
 
     p {
-      color: #d7cfbe;
+      color: #ffffff;
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       font-size: 18px;
