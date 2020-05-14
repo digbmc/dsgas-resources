@@ -1,3 +1,9 @@
+---
+title: Digital Archaeology Resources
+layout: template
+filename: Classical-Archaeology.md
+--- 
+
 # Digital Archaeology Resources:
 
 This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to journals, awards and fellowship opportunities, conferences, online archives and databases, as well as other programs, tools, and resources one may need to become further involved in these communities.
