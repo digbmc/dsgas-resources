@@ -13,7 +13,7 @@ body {
   background: linear-gradient(#2a2a29, #1c1c1c);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
   color:#00aeef;
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -31,15 +31,14 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  color:#00aeef;
 }
 
 h2 {
   font-size: 24px;
+  color:#f3b720; 
 }
 
-h4, h5, h6 {
-  color:#e8e8e8;
-}
 
 h3 {
   font-size: 18px;
