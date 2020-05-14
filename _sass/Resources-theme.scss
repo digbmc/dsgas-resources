@@ -6,14 +6,14 @@ body {
   padding:0px 0 20px 0px;
   margin: 0px;
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#f0e7d5;
+  color:#ffffff;
   font-weight: normal;
   background: #252525;
   background-attachment: fixed !important;
   background: linear-gradient(#2a2a29, #1c1c1c);
 }
 
-h1, h2, h3 {
+h1, {
   color:#00aeef;
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -34,18 +34,12 @@ h1 {
   color:#00aeef;
 }
 
-h2 {
-  font-size: 24px;
-  color:#f3b720; 
-}
-
-
 h3 {
   font-size: 18px;
   line-height: 24px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
-  color: #b6b6b6;
+  color: #f3b720   ;
 }
 
 a {
@@ -54,7 +48,7 @@ a {
   text-decoration:none;
 
   &:hover {
-    color: #ffeb9b;
+    color: #fff20d;
   }
 }
 
