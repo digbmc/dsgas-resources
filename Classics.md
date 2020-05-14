@@ -1,3 +1,9 @@
+---
+title: Digital Resources for Classics
+layout: template.html
+filename: Classics.md
+--- 
+
 # Digital Resources for Classics
 
 This is a resource for students in Greek, Latin, and Classical Studies interested in both classics and digital tools within the wider realm of digital humanities. This site includes links to journals, awards and fellowship opportunities, conferences, online archives and databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
