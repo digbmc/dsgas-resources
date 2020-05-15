@@ -66,7 +66,7 @@ This is a resource for archaeology students interested in digital archaeology an
 
 The following are peer-reviewed journals concerned with digital methods and research in the field of archaeology.
 
-- [Internet Archaeology](https://intarch.ac.uk/")
+- [Internet Archaeology](https://intarch.ac.uk/)
 - [The Journal of Computer Applications in Archaeology](https://journal.caa-international.org/)
 - [Archaeological Prospection](https://onlinelibrary.wiley.com/journal/10990763)
 - [Advances in Archaeological Practice](https://www.cambridge.org/core/journals/advances-in-archaeological-practice) 
