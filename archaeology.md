@@ -1,6 +1,6 @@
 ---
 title: Digital Archaeology Resources
-layout: template
+layout: default
 --- 
 
 # Digital Archaeology Resources:

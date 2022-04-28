@@ -1,4 +1,4 @@
 ---
 title: Art History Resources
-layout: template
+layout: default
 --- 

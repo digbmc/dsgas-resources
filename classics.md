@@ -1,6 +1,6 @@
 ---
 title: Digital Resources for Classics
-layout: template
+layout: default
 
 --- 
 
