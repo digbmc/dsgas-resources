@@ -1,7 +1,7 @@
 ---
 title: Digital Resources for Classics
 layout: template.html
-filename: Classics.md
+
 --- 
 
 # Digital Resources for Classics

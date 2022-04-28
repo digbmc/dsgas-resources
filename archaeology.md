@@ -1,7 +1,6 @@
 ---
 title: Digital Archaeology Resources
 layout: template
-filename: Classical-Archaeology.md
 --- 
 
 # Digital Archaeology Resources:
